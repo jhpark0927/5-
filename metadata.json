@@ -1,0 +1,6 @@
+{
+  "name": "5분만 - 지각 방지 및 외출 역산 시뮬레이터",
+  "description": "외출 준비 시간과 이동 정보, 돌발 변수를 반영한 몬테카를로 시뮬레이션 기반 외출 역산 및 지각 확률 분석기",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
