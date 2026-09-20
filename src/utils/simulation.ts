@@ -22,7 +22,7 @@ export const PRESET_LABELS: Record<
 > = {
   shower: { fast: '빠름 (10분)', normal: '보통 (20분)', slow: '느림 (35분)' },
   dress: { fast: '빠름 (5분)', normal: '보통 (15분)', slow: '느림 (25분)' },
-  meal: { fast: '빠름 (0분)', normal: '보통 (25분)', slow: '느림 (45분)' },
+  meal: { fast: '생략 (0분)', normal: '보통 (25분)', slow: '느림 (45분)' },
   walk: { fast: '빠름 (10분)', normal: '보통 (15분)', slow: '느림 (25분)' },
 };
 
